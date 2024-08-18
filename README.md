@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ash5008X
 - 👀 I’m interested in Full Stack web developement and game developement
 - 🌱 I’m currently learning : Html css js python c++ java and c
-- 📫 How to reach me : ashmit@3108@gmail.com
+- 📫 How to reach me : ashmit3108@gmail.com
 - 😄 Pronouns: ... he/him
 
 <!---
