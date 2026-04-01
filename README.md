@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ash5008X
-- 👀 I’m interested in Full Stack web developement and game developement
+- 👀 I’m interested in Full Stack web developement, AI/ML and game developement
 - 🌱 I’m currently learning : JS framework C++ Python Java
 - 📫 How to reach me : ashmit3108@gmail.com
 - 😄 Pronouns: ... he/him
