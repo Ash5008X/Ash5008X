@@ -191,11 +191,11 @@ into larger systems.
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
 <br/><br/>
 
@@ -204,7 +204,6 @@ into larger systems.
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
 </div>
-
 ---
 
 ## ⚙️ Backend
@@ -235,6 +234,23 @@ into larger systems.
 
 ---
 
+## ☁️ DevOps & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux" />
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</p>
+
+---
 ## 🤖 AI / Machine Learning
 
 <div align="center">
