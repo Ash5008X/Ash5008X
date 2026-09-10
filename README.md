@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science Engineering student** passionate about building
+I'm a **Computer Science Engineer** passionate about building
 software across **Full Stack Development, AI/ML, and Game Development**.
 
 I enjoy taking ideas from a rough concept to a working system, while
