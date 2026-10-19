@@ -1,356 +1,349 @@
-# ⚡ Ashmit Srivastava
+ <div align="center">
 
-### Full Stack Developer · AI/ML Explorer · Game Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,25:6C00FF,55:00E5FF,80:FF00C8,100:050816&text=ASHMIT%20SRIVASTAVA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20GAME%20DEV&descAlignY=60&descSize=17" width="100%" alt="Animated neon header"/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems;Exploring+AI%2FML+and+intelligent+systems;Creating+games+with+Unity+and+Blender;Turning+ideas+into+working+projects." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=INITIALIZING+DEVELOPER+MODE...;BUILDING+SYSTEMS%2C+NOT+JUST+PROJECTS;EXPLORING+AI+AND+INTELLIGENT+AGENTS;TURNING+IDEAS+INTO+REALITY;BUILD.+BREAK.+LEARN.+REPEAT." alt="Animated developer tagline"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ash5008X&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ash5008X&style=for-the-badge&color=6C00FF&label=VISITORS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" alt="Online"/>
+<img src="https://img.shields.io/badge/BUILDING-COOL%20STUFF-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="Building cool stuff"/>
+
+<br/><br/>
+
+<a href="https://github.com/Ash5008X">
+<img src="https://img.shields.io/badge/GitHub-Ash5008X-111111?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-I'm a **Computer Science Engineering student** passionate about building software across **Full Stack Development, AI/ML, and Game Development**.
+## `> WHO_AM_I.exe`
 
-I enjoy taking ideas from a rough concept to a working system while learning the engineering behind the technologies I use.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI%2FML+Explorer;Unity+Game+Developer;Builder+of+Things+That+Actually+Work" alt="Animated roles"/>
 
-### 🚀 What I Do
+</div>
 
-- 🌐 Build full-stack web applications and backend systems
-- 🤖 Explore AI/ML and AI-powered developer tools
-- 🧠 Experiment with intelligent coding agents and automation
-- 🎮 Develop games and interactive experiences with Unity
-- 🎨 Create and integrate 3D assets using Blender
-- 🏗️ Learn software architecture and system design through real projects
+I'm a **Computer Science Engineering student** who enjoys building real software, exploring intelligent systems, and figuring out how everything works under the hood.
 
-### 🔭 Currently Working On
+I work across web development, AI/ML, developer tooling, and game development. My favorite learning method is to build something ambitious, break it spectacularly, debug it, and pretend the bugs were educational objectives.
 
-- **LUCY** · My long-term personal AI coding assistant
-- **NexusTraffic** · A full-stack traffic incident management and analytics platform
-- **InternCheck** · An internship verification and experience platform
-- **Chessmate** · A stylized chess game built with Unity 6, C#, and Blender
+### ⚡ My operating principles
 
-### 💡 My Approach
-
-> **Build it → Break it → Understand it → Improve it → Ship it**
-
-I learn best by building projects that push beyond what I already know. The goal isn't just to learn another framework, but to understand how the pieces fit together and build systems that actually work.
+- `01` Build products that solve real problems.
+- `02` Understand the architecture, not just the syntax.
+- `03` Experiment with AI agents and intelligent systems.
+- `04` Ship projects instead of collecting unfinished tutorials.
+- `05` Keep learning, keep building, keep improving.
 
 ---
 
 <div align="center">
 
-### ⚡ Build · Break · Learn · Repeat
+## ⚡ SYSTEM METRICS ⚡
+
+<img src="https://img.shields.io/badge/DOMAIN-FULL%20STACK-7B2CFF?style=for-the-badge" alt="Full stack"/>
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-00D9FF?style=for-the-badge" alt="AI"/>
+<img src="https://img.shields.io/badge/DOMAIN-GAME%20DEVELOPMENT-FF00A8?style=for-the-badge" alt="Game development"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 PROJECTS IN THE NEON LAB
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8A2BE2,100:FF00C8" width="100%" alt="Neon divider"/>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 LUCY
+<div align="center">
 
-### Personal Coding AI
+### 🤖 L U C Y
 
-A long-term project focused on building a **personal AI coding assistant from scratch**.
+<img src="https://img.shields.io/badge/PROJECT-PERSONAL%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Personal AI"/>
 
-LUCY aims to understand software projects, reason about code, interact with development tools, run tests, debug problems, and maintain persistent project context.
+**A personal coding AI built from scratch.**
 
-**Core Areas**
+</div>
 
-- 🧠 AI / ML
-- 🤖 AI Agents
-- 💻 Code Intelligence
-- 🔍 Project Understanding
-- 🛠️ Developer Tooling
-- ⚙️ Agent Architecture
+LUCY is my long-term project to develop an AI coding assistant capable of understanding software projects and working alongside a developer.
 
-**Status:** 🟡 Active Development
+**Target capabilities**
+
+- 🧠 Project and code understanding
+- 🔍 Code analysis and reasoning
+- 🛠️ File operations and development tools
+- 🧪 Test execution and debugging
+- 🗃️ Persistent project memory
+- ⚙️ Agent orchestration and automation
+
+**Stack:** Python · AI/ML · Agent Architecture
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-## 🚦 NexusTraffic
+<div align="center">
 
-### Traffic Management & Analytics Platform
+### 🚦 N E X U S T R A F F I C
 
-A full-stack platform for **traffic incident management, analytics, broadcasting, and reporting**.
+<img src="https://img.shields.io/badge/PROJECT-TRAFFIC%20INTELLIGENCE-00BFA6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Traffic management"/>
 
-Built with React, Node.js, Express.js, MongoDB, and Socket.IO, the platform brings incident tracking and operational reporting into one system.
+**Traffic incident management and analytics.**
 
-**Core Features**
+</div>
 
-- 🚨 Incident Management
-- 📊 Analytics & Dashboards
-- 📢 Incident Broadcasting
-- 📑 Report Generation and Export
-- 🔍 Location-based Incident Retrieval
-- 👥 Ownership-based Access
-- 📈 Data Visualization
+A full-stack platform designed to manage traffic incidents, communicate updates, and turn operational data into useful reports.
 
-**Status:** 🟢 Active Development
+**Core features**
+
+- 🚨 Incident management and retrieval
+- 📊 Analytics dashboards
+- 📢 Incident broadcasting
+- 📑 CSV, PDF, and Excel reports
+- 📍 Location-aware incident workflows
+- 🔐 Ownership-based access
+- 🔄 Real-time communication
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.IO · Docker
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+
+</div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-## 🛡️ InternCheck
+<div align="center">
 
-### Internship Verification & Experience Platform
+### 🛡️ I N T E R N C H E C K
 
-A web platform designed to improve **transparency, credibility, and trust in internship experiences**.
+<img src="https://img.shields.io/badge/PROJECT-INTERNSHIP%20VERIFICATION-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white" alt="InternCheck"/>
 
-Built with Next.js, JavaScript, CSS, Tailwind CSS, and MongoDB, InternCheck is designed to connect student experiences with company and internship information through a structured verification workflow.
+**Trust and transparency for internship experiences.**
 
-**Core Areas**
+</div>
 
-- 🎓 Student Experience Management
-- 🏢 Company and Internship Records
-- ✅ Internship Verification Records
-- 🛡️ Risk Assessment
-- ⭐ Experience and Review Histories
-- 🚩 Reporting and Notifications
-- 📄 CV and Application Management
-- 🔖 Bookmarks and Student Dashboard
+A web platform designed to organize student internship experiences, company information, verification records, and risk-related information.
 
-**Technology Stack**
+**Core areas**
 
-- Next.js
-- JavaScript and CSS
-- Tailwind CSS
-- MongoDB and Mongoose
+- 🎓 Student dashboards
+- 🏢 Company and internship records
+- ✅ Verification workflows
+- 🛡️ Risk assessments
+- ⭐ Experience and review histories
+- 🚩 Reports and notifications
+- 📄 CVs and applications
+- 🔖 Bookmarks
 
-**Status:** 🟡 Active Development
+**Stack:** Next.js · JavaScript · CSS · Tailwind CSS · MongoDB · Mongoose
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-## ♟️ Chessmate
+<div align="center">
 
-### Stylized Chess Game
+### ♟️ C H E S S M A T E
 
-A stylized chess game built with **Unity 6**, featuring custom low-poly 3D chess pieces created in Blender.
+<img src="https://img.shields.io/badge/PROJECT-3D%20GAME%20DEVELOPMENT-FF8C00?style=for-the-badge&logo=unity&logoColor=white" alt="Chessmate"/>
 
-**Core Systems**
+**A stylized chess experience.**
 
-- ♟️ Board Generation
-- 📜 FEN Parsing
-- 🧩 Piece Spawning
-- 🎯 Piece Selection
-- 🖱️ Input Management
-- 📷 Gameplay Cameras
-- 🎨 Custom 3D Assets
-- 🌐 WebGL Pipeline
+</div>
 
-**Status:** 🟢 Active Development
+A chess game developed using Unity 6, featuring custom low-poly chess pieces modeled in Blender.
+
+**Core systems**
+
+- ♟️ Procedural board generation
+- 📜 FEN parsing
+- 🧩 Piece spawning
+- 🎯 Selection and input handling
+- 🎨 Custom 3D assets
+- 📷 Gameplay camera systems
+- 🌐 WebGL integration
+
+**Stack:** Unity 6 · C# · Blender · WebGL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+
+</div>
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Languages
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,python,cs,java" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF00C8,50:8A2BE2,100:00E5FF" width="100%" alt="Neon divider"/>
 
 </div>
 
 ---
 
-## 🌐 Frontend Development
+# ⚡ THE TECHNOLOGY ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+### `01` PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=javascript,python,cs,java&theme=dark" alt="Programming languages"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+### `02` FRONTEND SYSTEMS
 
-</div>
-
----
-
-## ⚙️ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+### `03` BACKEND & API ENGINEERING
 
-</div>
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+### `04` DATA & STORAGE
 
-</div>
-
----
-
-## ☁️ DevOps & Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,jenkins" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### `05` DEVOPS & INFRASTRUCTURE
 
-</div>
-
----
-
-## 🤖 AI / Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx,linux&theme=dark" alt="DevOps technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20Systems-0D1117?style=for-the-badge&logo=google&logoColor=white" />
+### `06` AI & MACHINE LEARNING
 
-</div>
-
----
-
-## 🎮 Game Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="AI and machine learning"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Unity%206-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20AGENTS-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI agents"/>
+<img src="https://img.shields.io/badge/LLM%20SYSTEMS-00BFFF?style=for-the-badge&logo=google&logoColor=white" alt="LLM systems"/>
+<img src="https://img.shields.io/badge/CODE%20INTELLIGENCE-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="Code intelligence"/>
+
+<br/><br/>
+
+### `07` GAME DEVELOPMENT & 3D
+
+<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Game development tools"/>
+
+<br/><br/>
+
+### `08` EVERYDAY TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-## 🔧 Tools & Development Environment
+# 📊 GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vite" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ash5008X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF00C8&text_color=FFFFFF&ring_color=8A2BE2" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash5008X&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Most-used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Ash5008X&theme=tokyonight&hide_border=true&background=050816&ring=8A2BE2&fire=FF00C8&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ash5008X&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## 🧩 Technology Overview
+# 🐍 THE CONTRIBUTION SNAKE
 
 <div align="center">
 
-| Area | Technologies |
+<img src="https://raw.githubusercontent.com/Ash5008X/Ash5008X/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+</div>
+
+> **Setup required:** The snake animation needs a GitHub Actions workflow in the special `Ash5008X` profile repository to generate and publish the `output` branch. Until you configure it, this image may not load. The internet does not manufacture animation files out of good intentions.
+
+---
+
+# 🎯 MISSION OBJECTIVES: 2026
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=500&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=MISSION+01%3A+BUILD+LUCY+V0.1;MISSION+02%3A+LEVEL+UP+AI%2FML;MISSION+03%3A+SHIP+BETTER+SYSTEMS;MISSION+04%3A+FINISH+REAL+PROJECTS;MISSION+05%3A+UNDERSTAND+THE+ENGINEERING" alt="Animated mission objectives"/>
+
+</div>
+
+| Mission | Objective |
 |:---|:---|
-| **Languages** | JavaScript · Python · C# · Java |
-| **Frontend** | React · Next.js · HTML · CSS · Tailwind CSS |
-| **State & UI** | Redux Toolkit · React Router · Chart.js |
-| **Backend** | Node.js · Express.js · FastAPI · REST APIs · Socket.IO |
-| **Database** | MongoDB · Mongoose · MySQL · PostgreSQL |
-| **AI / ML** | Python · AI/ML · LLM Systems · AI Agents |
-| **Game Development** | Unity 6 · C# · WebGL · Blender |
-| **DevOps** | Docker · Jenkins · GitHub Actions · Nginx |
-| **Tools** | Git · GitHub · VS Code · Linux · Vite |
-
-</div>
+| 🤖 LUCY | Develop the first meaningful version of my personal coding agent |
+| 🧠 AI/ML | Strengthen machine learning and intelligent systems fundamentals |
+| 🧩 Agent Systems | Explore planning, tool use, memory, and code reasoning |
+| 🌐 Full Stack | Improve architecture, reliability, and maintainability |
+| 🛡️ InternCheck | Develop a useful internship verification platform |
+| 🚦 NexusTraffic | Continue improving incident management and analytics |
+| ♟️ Chessmate | Develop and refine the Unity chess experience |
+| 🚀 Shipping | Finish projects, document them, and make them accessible |
 
 ---
 
-# 🎯 2026 Goals
+# 🧠 DEVELOPER MODE: ALWAYS ON
 
 <div align="center">
-
-| Goal | Status |
-|:---|:---:|
-| 🤖 Build **LUCY v0.1** | 🔄 In Progress |
-| 🧠 Strengthen AI / ML fundamentals | 🔄 In Progress |
-| 🧩 Build better AI agent systems | 🔄 In Progress |
-| 🌐 Improve full-stack architecture | 🔄 In Progress |
-| 🏗️ Learn deeper system design | 🔄 In Progress |
-| 🚦 Continue developing NexusTraffic | 🔄 In Progress |
-| 🛡️ Develop InternCheck | 🔄 In Progress |
-| ♟️ Continue developing Chessmate | 🔄 In Progress |
-| 🚀 Ship more complete projects | 🔄 In Progress |
-
-</div>
-
-### 📚 Learning Priorities
 
 ```text
-        ┌─────────────────────────────┐
-        │         2026 FOCUS          │
-        └──────────────┬──────────────┘
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-        ▼              ▼              ▼
-    FULL STACK       AI / ML       GAME DEV
-        │              │              │
-        ▼              ▼              ▼
-    Next.js         AI Agents      Unity 6
-    React           LLM Systems    C#
-    Backend         Code AI        Blender
-    Databases       Reasoning      WebGL
-    Architecture
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                       ▼
-                BUILD BETTER
-                   SYSTEMS
+┌──────────────────────────────────────────┐
+│            DEVELOPER PROFILE             │
+├──────────────────────────────────────────┤
+│  MODE       : BUILD                      │
+│  SPECIALTY  : FULL STACK                 │
+│  EXPLORING  : AI / ML                    │
+│  SIDE QUEST : GAME DEVELOPMENT           │
+│  STRATEGY   : LEARN BY BUILDING          │
+│  OBJECTIVE  : SHIP USEFUL SOFTWARE       │
+└──────────────────────────────────────────┘
 ```
 
----
+### ⚡ BUILD SOMETHING. MAKE IT BETTER. SHIP IT.
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=500&color=FF00C8&center=true&vCenter=true&width=700&height=50&lines=Ideas+are+cheap.+Implementation+is+the+game.;Debugging+is+just+detective+work+with+semicolons.;The+best+project+is+the+one+you+actually+ship." alt="Animated developer quotes"/>
 
-### ⚡ Build · Break · Learn · Repeat
+<br/>
 
-*Building projects, exploring ideas, and learning something new with every iteration.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050816,35:FF00C8,70:6C00FF,100:00E5FF&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
 
 </div>
