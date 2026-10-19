@@ -354,15 +354,6 @@ A chess game developed using Unity 6, featuring custom low-poly 3D chess pieces 
 
 <br/><br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ash5008X&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub trophies"/>
-
-</div>
-
-
-</div>
-
 ---
 
 # 🐍 THE CONTRIBUTION SNAKE
