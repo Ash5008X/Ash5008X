@@ -29,7 +29,7 @@
 
 </div>
 
-I'm a **Computer Science Engineering student** who enjoys building real software, exploring intelligent systems, and figuring out how everything works under the hood.
+I'm a **Computer Science Engineer** who enjoys building real software, exploring intelligent systems, and figuring out how everything works under the hood.
 
 I work across web development, AI/ML, developer tooling, and game development. My favorite learning method is to build something ambitious, break it spectacularly, debug it, and pretend the bugs were educational objectives.
 
