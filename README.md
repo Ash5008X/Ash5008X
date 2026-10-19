@@ -7,13 +7,13 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ash5008X&style=for-the-badge&color=6C00FF&label=VISITORS" alt="Profile views"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" alt="Online"/>
-<img src="https://img.shields.io/badge/BUILDING-COOL%20STUFF-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="Building cool stuff"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" alt="Developer status"/>
+<img src="https://img.shields.io/badge/BUILDING-COOL%20STUFF-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="Building projects"/>
 
 <br/><br/>
 
 <a href="https://github.com/Ash5008X">
-<img src="https://img.shields.io/badge/GitHub-Ash5008X-111111?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Ash5008X-111111?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
 </a>
 
 </div>
@@ -24,7 +24,7 @@
 
 ## `> WHO_AM_I.exe`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI%2FML+Explorer;Unity+Game+Developer;Builder+of+Things+That+Actually+Work" alt="Animated roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=FF00C8&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI%2FML+Explorer;Unity+Game+Developer;Builder+of+Things+That+Actually+Work" alt="Animated developer roles"/>
 
 </div>
 
@@ -32,7 +32,7 @@ I'm a **Computer Science Engineering student** who enjoys building real software
 
 I work across web development, AI/ML, developer tooling, and game development. My favorite learning method is to build something ambitious, break it spectacularly, debug it, and pretend the bugs were educational objectives.
 
-### ⚡ My operating principles
+### ⚡ My Operating Principles
 
 - `01` Build products that solve real problems.
 - `02` Understand the architecture, not just the syntax.
@@ -46,8 +46,8 @@ I work across web development, AI/ML, developer tooling, and game development. M
 
 ## ⚡ SYSTEM METRICS ⚡
 
-<img src="https://img.shields.io/badge/DOMAIN-FULL%20STACK-7B2CFF?style=for-the-badge" alt="Full stack"/>
-<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-00D9FF?style=for-the-badge" alt="AI"/>
+<img src="https://img.shields.io/badge/DOMAIN-FULL%20STACK-7B2CFF?style=for-the-badge" alt="Full stack development"/>
+<img src="https://img.shields.io/badge/DOMAIN-ARTIFICIAL%20INTELLIGENCE-00D9FF?style=for-the-badge" alt="Artificial intelligence"/>
 <img src="https://img.shields.io/badge/DOMAIN-GAME%20DEVELOPMENT-FF00A8?style=for-the-badge" alt="Game development"/>
 
 </div>
@@ -58,7 +58,9 @@ I work across web development, AI/ML, developer tooling, and game development. M
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8A2BE2,100:FF00C8" width="100%" alt="Neon divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=1400&pause=300&color=8A2BE2&center=true&vCenter=true&width=850&height=45&lines=%5B+01+%5D+L.U.C.Y+%7C+PERSONAL+AI;%5B+02+%5D+NEXUSTRAFFIC+%7C+TRAFFIC+INTELLIGENCE;%5B+03+%5D+INTERNCHECK+%7C+TRUST+ENGINE;%5B+04+%5D+CHESSMATE+%7C+UNITY+GAME+DEV" alt="Animated project selector"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:8A2BE2,35:00E5FF,70:FF4D8D,100:FFB347" width="100%" alt="Neon project divider"/>
 
 </div>
 
@@ -70,15 +72,17 @@ I work across web development, AI/ML, developer tooling, and game development. M
 
 ### 🤖 L U C Y
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:170A2B,50:6C00FF,100:170A2B&text=L.U.C.Y&fontSize=32&fontColor=FFFFFF&animation=twinkling" width="100%" alt="LUCY project banner"/>
+
 <img src="https://img.shields.io/badge/PROJECT-PERSONAL%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Personal AI"/>
 
 **A personal coding AI built from scratch.**
 
 </div>
 
-LUCY is my long-term project to develop an AI coding assistant capable of understanding software projects and working alongside a developer.
+LUCY is my long-term project to develop a personal AI coding assistant capable of understanding software projects and working alongside a developer.
 
-**Target capabilities**
+**Target Capabilities**
 
 - 🧠 Project and code understanding
 - 🔍 Code analysis and reasoning
@@ -91,7 +95,7 @@ LUCY is my long-term project to develop an AI coding assistant capable of unders
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="LUCY development status"/>
 
 </div>
 
@@ -102,7 +106,9 @@ LUCY is my long-term project to develop an AI coding assistant capable of unders
 
 ### 🚦 N E X U S T R A F F I C
 
-<img src="https://img.shields.io/badge/PROJECT-TRAFFIC%20INTELLIGENCE-00BFA6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Traffic management"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:061B22,50:00BFD8,100:061B22&text=NEXUSTRAFFIC&fontSize=25&fontColor=FFFFFF&animation=twinkling" width="100%" alt="NexusTraffic project banner"/>
+
+<img src="https://img.shields.io/badge/PROJECT-TRAFFIC%20INTELLIGENCE-00BFA6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Traffic intelligence"/>
 
 **Traffic incident management and analytics.**
 
@@ -110,7 +116,7 @@ LUCY is my long-term project to develop an AI coding assistant capable of unders
 
 A full-stack platform designed to manage traffic incidents, communicate updates, and turn operational data into useful reports.
 
-**Core features**
+**Core Features**
 
 - 🚨 Incident management and retrieval
 - 📊 Analytics dashboards
@@ -124,7 +130,7 @@ A full-stack platform designed to manage traffic incidents, communicate updates,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="NexusTraffic development status"/>
 
 </div>
 
@@ -137,7 +143,9 @@ A full-stack platform designed to manage traffic incidents, communicate updates,
 
 ### 🛡️ I N T E R N C H E C K
 
-<img src="https://img.shields.io/badge/PROJECT-INTERNSHIP%20VERIFICATION-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white" alt="InternCheck"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:250814,50:FF4D8D,100:5A102D&text=INTERNCHECK&fontSize=27&fontColor=FFFFFF&animation=twinkling" width="100%" alt="InternCheck project banner"/>
+
+<img src="https://img.shields.io/badge/PROJECT-INTERNSHIP%20VERIFICATION-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white" alt="Internship verification"/>
 
 **Trust and transparency for internship experiences.**
 
@@ -145,7 +153,7 @@ A full-stack platform designed to manage traffic incidents, communicate updates,
 
 A web platform designed to organize student internship experiences, company information, verification records, and risk-related information.
 
-**Core areas**
+**Core Areas**
 
 - 🎓 Student dashboards
 - 🏢 Company and internship records
@@ -160,7 +168,7 @@ A web platform designed to organize student internship experiences, company info
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="InternCheck development status"/>
 
 </div>
 
@@ -171,15 +179,17 @@ A web platform designed to organize student internship experiences, company info
 
 ### ♟️ C H E S S M A T E
 
-<img src="https://img.shields.io/badge/PROJECT-3D%20GAME%20DEVELOPMENT-FF8C00?style=for-the-badge&logo=unity&logoColor=white" alt="Chessmate"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:281600,50:FF9D00,100:281600&text=CHESSMATE&fontSize=29&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Chessmate project banner"/>
+
+<img src="https://img.shields.io/badge/PROJECT-3D%20GAME%20DEVELOPMENT-FF8C00?style=for-the-badge&logo=unity&logoColor=white" alt="Game development"/>
 
 **A stylized chess experience.**
 
 </div>
 
-A chess game developed using Unity 6, featuring custom low-poly chess pieces modeled in Blender.
+A chess game developed using Unity 6, featuring custom low-poly 3D chess pieces modeled in Blender.
 
-**Core systems**
+**Core Systems**
 
 - ♟️ Procedural board generation
 - 📜 FEN parsing
@@ -193,7 +203,7 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Active development"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FFB000?style=flat-square" alt="Chessmate development status"/>
 
 </div>
 
@@ -203,7 +213,7 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF00C8,50:8A2BE2,100:00E5FF" width="100%" alt="Neon divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF00C8,50:8A2BE2,100:00E5FF" width="100%" alt="Neon project divider"/>
 
 </div>
 
@@ -213,39 +223,85 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <div align="center">
 
-### `01` PROGRAMMING LANGUAGES
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=1300&pause=300&color=00E5FF&center=true&vCenter=true&width=850&height=45&lines=%3E+LANGUAGES;%3E+FRONTEND+SYSTEMS;%3E+BACKEND+ENGINEERING;%3E+DATA+%26+STORAGE;%3E+DEVOPS+%26+INFRASTRUCTURE;%3E+AI%2FML+%26+GAME+DEVELOPMENT" alt="Animated technology headings"/>
 
-<img src="https://skillicons.dev/icons?i=javascript,python,cs,java&theme=dark" alt="Programming languages"/>
+</div>
 
-<br/><br/>
+### 💻 01 · Programming Languages
 
-### `02` FRONTEND SYSTEMS
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=javascript,python,cs,java&theme=dark" alt="Programming language icons"/>
 
-<br/><br/>
+</div>
 
-### `03` BACKEND & API ENGINEERING
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend technologies"/>
+### 🌐 02 · Frontend Systems
 
-<br/><br/>
+<div align="center">
 
-### `04` DATA & STORAGE
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend technology icons"/>
 
 <br/><br/>
 
-### `05` DEVOPS & INFRASTRUCTURE
+<img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 
-<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx,linux&theme=dark" alt="DevOps technologies"/>
+</div>
+
+---
+
+### ⚙️ 03 · Backend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend technology icons"/>
 
 <br/><br/>
 
-### `06` AI & MACHINE LEARNING
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="AI and machine learning"/>
+</div>
+
+---
+
+### 🗄️ 04 · Data and Storage
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Database technology icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+
+</div>
+
+---
+
+### ☁️ 05 · DevOps and Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,nginx,linux&theme=dark" alt="DevOps technology icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/CONTAINERS-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Containerization"/>
+
+</div>
+
+---
+
+### 🤖 06 · AI and Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="AI and machine learning icons"/>
 
 <br/><br/>
 
@@ -253,15 +309,29 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 <img src="https://img.shields.io/badge/LLM%20SYSTEMS-00BFFF?style=for-the-badge&logo=google&logoColor=white" alt="LLM systems"/>
 <img src="https://img.shields.io/badge/CODE%20INTELLIGENCE-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="Code intelligence"/>
 
+</div>
+
+---
+
+### 🎮 07 · Game Development and 3D
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Game development icons"/>
+
 <br/><br/>
 
-### `07` GAME DEVELOPMENT & 3D
+<img src="https://img.shields.io/badge/UNITY%206-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/>
+<img src="https://img.shields.io/badge/BLENDER-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 
-<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" alt="Game development tools"/>
+</div>
 
-<br/><br/>
+---
 
-### `08` EVERYDAY TOOLS
+### 🔧 08 · Everyday Tools
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite&theme=dark" alt="Development tools"/>
 
@@ -273,12 +343,13 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ash5008X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF00C8&text_color=FFFFFF&ring_color=8A2BE2" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash5008X&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" alt="Most-used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ash5008X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=FF00C8&text_color=FFFFFF&ring_color=8A2BE2" width="49%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash5008X&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" width="49%" alt="Most-used languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Ash5008X&theme=tokyonight&hide_border=true&background=050816&ring=8A2BE2&fire=FF00C8&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Ash5008X&theme=tokyonight&hide_border=true&background=050816&ring=8A2BE2&fire=FF00C8&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E" width="85%" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
@@ -292,11 +363,13 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ash5008X/Ash5008X/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/Ash5008X/Ash5008X/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:8A2BE2,100:FF00C8" width="100%" alt="Neon divider"/>
 
 </div>
-
-> **Setup required:** The snake animation needs a GitHub Actions workflow in the special `Ash5008X` profile repository to generate and publish the `output` branch. Until you configure it, this image may not load. The internet does not manufacture animation files out of good intentions.
 
 ---
 
@@ -325,6 +398,8 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=1800&pause=350&color=00E5FF&center=true&vCenter=true&width=800&height=50&lines=%3E+MODE%3A+BUILD;%3E+SPECIALTY%3A+FULL+STACK;%3E+EXPLORING%3A+AI+%2F+ML;%3E+SIDE+QUEST%3A+GAME+DEVELOPMENT;%3E+STRATEGY%3A+LEARN+BY+BUILDING;%3E+OBJECTIVE%3A+SHIP+USEFUL+SOFTWARE" alt="Animated developer terminal"/>
+
 ```text
 ┌──────────────────────────────────────────┐
 │            DEVELOPER PROFILE             │
@@ -344,6 +419,6 @@ A chess game developed using Unity 6, featuring custom low-poly chess pieces mod
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050816,35:FF00C8,70:6C00FF,100:00E5FF&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,35:FF00C8,70:6C00FF,100:00E5FF&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
 
 </div>
