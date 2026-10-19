@@ -6,7 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ash5008X&style=for-the-badge&color=6C00FF&label=VISITORS" alt="Profile views"/>
+
+<img src="https://komarev.com/ghpvc/?username=Ash5008X&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" alt="Developer status"/>
 <img src="https://img.shields.io/badge/BUILDING-COOL%20STUFF-FF00C8?style=for-the-badge&logo=github&logoColor=white" alt="Building projects"/>
 
@@ -353,7 +354,12 @@ A chess game developed using Unity 6, featuring custom low-poly 3D chess pieces 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ash5008X&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies"/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ash5008X&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub trophies"/>
+
+</div>
+
 
 </div>
 
@@ -361,9 +367,15 @@ A chess game developed using Unity 6, featuring custom low-poly 3D chess pieces 
 
 # 🐍 THE CONTRIBUTION SNAKE
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Ash5008X/Ash5008X/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ash5008X/Ash5008X/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="Animated GitHub contribution snake"
+  />
+</div>
+
 
 <br/>
 
